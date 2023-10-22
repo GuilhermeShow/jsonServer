@@ -1,0 +1,77 @@
+{
+    "viagem": [
+        {
+            "id": 1,
+            "imagem": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSKR0N0aDXrytB5nv31XV1LKOIv7VU8aHD_36AZh_4ezhlv7S1f8E2R7AzSRtf9J-6iSki3kub13lUjJoq1JvFe-9r-TJzC",
+            "viagem": "Rio de Janeiro",
+            "valor": 214,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "aviao"
+        },
+        {
+            "id": 2,
+            "imagem": "https://catracalivre.com.br/wp-content/uploads/2021/09/cida-saopaulo-melhor-do-mundo.jpg",
+            "viagem": "São Paulo",
+            "valor": 149,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "aviao"
+        },
+        {
+            "id": 3,
+            "imagem": "https://cdn1.valuegaia.com.br/gaiasite/625/media/7c7f243bccfc59a85899744074d38476-cidade-fortaleza.jpg",
+            "viagem": "Fortaleza",
+            "valor": 499,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "aviao"
+        },
+        {
+            "id": 4,
+            "imagem": "https://blog.hurb.com/wp-content/uploads/2018/05/cataratas-do-iguacu-1200x900.png",
+            "viagem": "Cataratas do Iguaçu",
+            "valor": 489,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "aviao"
+        },
+        {
+            "id": 5,
+            "imagem": "https://a.cdn-hotels.com/gdcs/production53/d201/534fcf3d-a5c7-4323-b22f-060369c75b7e.jpg",
+            "viagem": "Campos de Jordão",
+            "valor": 89,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "onibus"
+        },
+        {
+            "id": 6,
+            "imagem": "https://sweetway.com.br/wp-content/uploads/2019/06/programe-um-final-de-semana-em-bertioga-sp.jpg",
+            "viagem": "Bertioga",
+            "valor": 78,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "onibus"
+        },
+        {
+            "id": 7,
+            "imagem": "https://grupo.odo.br/wp-content/uploads/2018/05/Cidade-Salvador1.jpg",
+            "viagem": "Bahia",
+            "valor": 199,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "onibus"
+        },
+        {
+            "id": 8,
+            "imagem": "https://imagens.portalzuk.com.br/blog/imagens/blog-zuk-Cidades-do-Espirito-Santo-Guarapari-720x405.jpg",
+            "viagem": "Espirito Santos",
+            "valor": 99,
+            "descricao": "Maravilhe-se com as dunas, com as falésias e com o mar azul claro nesta excursão de 1 dia a Arraial do Cabo. Desfrute da maravilhosa costa brasileira em uma excursão de barco.",
+            "passagem": "onibus"
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Guilherme",
+            "email": "guilherme@gmail.com",
+            "senha": "1234"
+        }
+    ]
+    
+}
